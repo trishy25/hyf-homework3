@@ -1,0 +1,28 @@
+html {background-color: aqua;}
+
+
+
+    .prog {padding:0px;
+      margin:0px;
+    width: 500%;
+      }
+
+input,select,textarea{
+    border: 2px solid ;
+    margin: 15px;
+    padding: 20px;
+    width: 30%;
+    font-size: 17px;
+    display:inline-block;
+}
+
+.expiry{width: 10%;
+padding: 10px;}
+
+.CVV{width: 10%; 
+  padding: 10px;}
+  
+
+
+
+ 
